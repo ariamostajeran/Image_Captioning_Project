@@ -8,6 +8,9 @@ This project implements an image captioning model using deep learning techniques
 The project uses the **Flickr8k Dataset**, which consists of:
 - 8,000 images
 - 5 captions per image
+- ![image](https://github.com/user-attachments/assets/480e3804-8c28-460d-8c49-c5849ba1545a)
+
+
 
 ## Model Architecture
 ![image](https://github.com/user-attachments/assets/f8eede51-9c78-4aea-8529-18b7d446fca2)
