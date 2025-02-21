@@ -1,3 +1,4 @@
+
 # Image Captioning using Deep Learning
 
 ## Overview
@@ -9,6 +10,8 @@ The project uses the **Flickr8k Dataset**, which consists of:
 - 5 captions per image
 
 ## Model Architecture
+![image](https://github.com/user-attachments/assets/f8eede51-9c78-4aea-8529-18b7d446fca2)
+
 The captioning model consists of:
 1. **Feature Extraction**: Pretrained CNN models (**ResNet50**, **ResNet101**) extract high-level image features.
 2. **Caption Generation**: A neural network processes the extracted features and generates captions.
