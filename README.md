@@ -48,6 +48,9 @@ The captioning model consists of:
 
 ## Results
 The model generates captions for images by recognizing objects and their relationships. Evaluation metrics and example outputs are included in the notebook.
+![image](https://github.com/user-attachments/assets/222f0eed-60b0-4a07-9630-49655e271f7d)
+
+
 
 ## Future Improvements
 - Implementing attention mechanisms to improve caption relevance.
